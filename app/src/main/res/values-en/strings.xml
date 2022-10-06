@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wprowadzenie_cz.2</string>
+    <string name="pytanie">Choose color, which are not in the polish flag</string>
+    <string name="zla_odp">This button have to stay</string>
+    <string name="koniec_gry">well done</string>
+
+
+</resources>
